@@ -1,0 +1,6 @@
+name: Minecart
+version: '${project.version}'
+main: me.newdavis.minecart.Minecart
+authors: [ NewDavis ]
+description: Plugin to spawn minecarts and delete after leave
+website: https://newdavis.me/
